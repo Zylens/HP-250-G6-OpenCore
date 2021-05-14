@@ -20,5 +20,5 @@ Credits:
 - Apple for macOS
 - Rehabman for Brightness Fixup
 - chris1111 for Intel WiFI
-- Olarila for ACPI Fixup
-- Snavdojski for his Clover EFI and a starting point to this project
+- Olarila for ACPI Fixup https://www.olarila.com/
+- Snajdovski for his Clover EFI and a starting point to this project https://github.com/snajdovski/snajdovski
