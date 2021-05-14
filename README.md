@@ -19,6 +19,7 @@ PC Specs:
 Credits:
 - Apple for macOS
 - Rehabman for Brightness Fixup
-- chris1111 for Intel WiFI
+- chris1111 for a few Patches and Guides that were used https://github.com/chris1111
 - Olarila for ACPI Fixup https://www.olarila.com/
 - Snajdovski for his Clover EFI and a starting point to this project https://github.com/snajdovski/snajdovski
+- OpenIntelWireless for their Intel WiFi Kext and amazing work https://github.com/OpenIntelWireless
