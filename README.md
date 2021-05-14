@@ -21,3 +21,4 @@ Credits:
 - Rehabman for Brightness Fixup
 - chris1111 for Intel WiFI
 - Olarila for ACPI Fixup
+- Snavdojski for his Clover EFI and a starting point to this project
