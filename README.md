@@ -18,7 +18,7 @@ PC Specs:
 
 Credits:
 - Apple for macOS
-- Rehabman for Brightness Fixup
+- Rehabman for Brightness Fixup and VoodooPS2Controller.kext https://github.com/RehabMan
 - chris1111 for a few Patches and Guides that were used https://github.com/chris1111
 - Olarila for ACPI Fixup https://www.olarila.com/
 - Snajdovski for his Clover EFI and a starting point to this project https://github.com/snajdovski/snajdovski
