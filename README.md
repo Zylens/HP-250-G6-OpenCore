@@ -9,7 +9,7 @@ PC Specs:
 - CPU: Intel Core i5-7200u
 - Graphics: Intel HD Graphics 620
 - Audio Realtek ALC 269 (alcid=13)
-- 3 USB Ports (x1 USB3.0   x2 USB2.0
+- 3 USB Ports (x2 USB3.0   x1 USB2.0
 - Synaptics TouchPad
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
