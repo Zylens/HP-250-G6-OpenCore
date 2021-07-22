@@ -1,7 +1,8 @@
 # HP-250-G6-OpenCore
 This EFI is for Users with the HP 250 G6 (i5 Variant)
 
-![Screen Shot 2021-05-13 at 5 43 14 PM](https://user-images.githubusercontent.com/83425771/118204639-8abdb980-b413-11eb-91e3-5dfb056f9d01.png)
+![Screen Shot 2021-07-22 at 12 43 16 PM](https://user-images.githubusercontent.com/83425771/126700044-ecc173c8-56ca-4af7-b0c9-962efb5f6c5d.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
