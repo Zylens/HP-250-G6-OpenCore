@@ -24,3 +24,4 @@ Credits:
 - Olarila for ACPI Fixup https://www.olarila.com/
 - Snajdovski for his Clover EFI and a starting point to this project https://github.com/snajdovski/snajdovski
 - OpenIntelWireless for their Intel WiFi Kext and amazing work https://github.com/OpenIntelWireless
+- CorpNewt for help on new ACPI Patches in new revisions of my EFI https://github.com/corpnewt
